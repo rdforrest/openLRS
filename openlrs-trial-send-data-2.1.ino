@@ -2,7 +2,7 @@
   Based on work by Tim Senecal.
   For Nano Every. (I have had problems with clones stopping working and requiring sketch to be reloaded.)
   Sends data over openLRS Passthru.
-  To do this, open the openLRS configurator for TX , Set serial baudrate(bps) to 9600, data rate(bps) to 9600, Telemotry to "Yes" (This is Passthru)
+  To do this, open the openLRS configurator for TX , Set serial baudrate(bps) to 9600, data rate(bps) to 9600, Telemetry to "Yes" (This is Passthru)
   Connections to Hobbyking receiver module:
    Arduino TX (Pin TXD1) -> receiver  RX (Serial port pins, 4th pin down fom top - aerial on left)
    Arduino GND -> receiver GND (Serial port pins,1st pin down from top - aerial on left.)
