@@ -6,7 +6,7 @@
   Connections to Hobbyking receiver module:
    Arduino TX (Pin TXD1) -> receiver  RX (Serial port pins, 4th pin down fom top - aerial on left)
    Arduino GND -> receiver GND (Serial port pins,1st pin down from top - aerial on left.)
-   Voltage divider inout to A2
+   Voltage divider input to A2
    Other sensor input (e.g Depth) to A3
    Receiver +6v to Vin on arduino
   Arduino serial data default is, serial baud rate (9600) and 8 data bits, no parity,no stop,LSB and not inverted - the default
