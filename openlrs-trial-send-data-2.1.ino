@@ -1,6 +1,6 @@
 /*
   Based on work by Tim Senecal.
-  For Nano Every. (I have had problems with clones stopping working and requiring sketch to be reloaded.)
+  For Nano Every (Which has the advantage of having several serial ports in hardware)(I have also had problems with clones stopping working and requiring sketch to be reloaded.)
   Sends data over openLRS Passthru.
   To do this, open the openLRS configurator for TX , Set serial baudrate(bps) to 9600, data rate(bps) to 9600, Telemetry to "Yes" (This is Passthru)
   Connections to Hobbyking receiver module:
