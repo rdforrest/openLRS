@@ -13,8 +13,7 @@
   Sept 2019-RDF - Voltage Divider. Move to  input from divider set by 4.7kohms and 15k ohms for 12 v battery. Better for  3.3 v input.
   (My original depth calibration depth (Using Tim's depth sensor detailed on SubPirates Forum)  = 3 * (depth - 84); // 84 to set zero)
   July 2020. Working on putting on voltage and current using an INA219 module.
-   This works now.
-  (Address is 64 (0x40)(From i2c scanner)
+  Aug 2020 This works well now. (Address is 64 (0x40)(From i2c scanner)
 
 */
 
